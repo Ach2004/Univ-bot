@@ -1,0 +1,797 @@
+2025-04-26 20:11:06,460 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-26 20:11:07,536 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-26 20:11:15,562 - __main__ - INFO - User 5389986340 started the bot
+2025-04-26 20:11:21,375 - __main__ - INFO - User 5389986340 pressed: lang_ar
+2025-04-26 20:11:22,769 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-26 20:11:24,302 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-26 20:11:32,268 - __main__ - INFO - User 5389986340 pressed: back_SUB_year1_1
+2025-04-26 20:11:50,403 - __main__ - INFO - User 5389986340 pressed: back_SUB_year1_1
+2025-04-26 20:11:51,475 - __main__ - INFO - User 5389986340 pressed: back_SEMESTER_year1
+2025-04-26 20:11:52,483 - __main__ - INFO - User 5389986340 pressed: back_YEAR
+2025-04-26 20:11:53,456 - __main__ - INFO - User 5389986340 pressed: back_LANGUAGE
+2025-04-26 20:13:33,191 - __main__ - INFO - User 5389986340 pressed: lang_en
+2025-04-26 20:13:34,847 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-26 20:13:36,084 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-26 20:19:22,449 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-26 20:19:23,494 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-26 20:19:28,004 - __main__ - INFO - User 5389986340 started the bot
+2025-04-26 20:19:30,741 - __main__ - INFO - User 5389986340 pressed: lang_en
+2025-04-26 20:19:32,111 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-26 20:19:33,274 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-26 20:19:35,484 - __main__ - INFO - User 5389986340 pressed: back_SEMESTER_year1
+2025-04-26 20:19:35,937 - __main__ - INFO - User 5389986340 pressed: back_YEAR
+2025-04-26 20:19:36,870 - __main__ - INFO - User 5389986340 pressed: back_LANGUAGE
+2025-04-26 20:19:37,615 - __main__ - INFO - User 5389986340 pressed: lang_en
+2025-04-26 20:19:38,638 - __main__ - INFO - User 5389986340 pressed: back_LANGUAGE
+2025-04-26 20:21:03,455 - __main__ - INFO - User 5389986340 pressed: lang_en
+2025-04-26 20:21:04,370 - __main__ - INFO - User 5389986340 pressed: back_LANGUAGE
+2025-04-26 20:21:06,093 - __main__ - INFO - User 5389986340 pressed: lang_en
+2025-04-26 20:21:07,671 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-26 20:21:08,624 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-26 20:21:10,621 - __main__ - INFO - User 5389986340 pressed: sub_Chemistry
+2025-04-26 20:21:26,913 - __main__ - INFO - User 5389986340 pressed: back_SUB_year1_1
+2025-04-26 20:21:29,010 - __main__ - INFO - User 5389986340 pressed: sub_Mechanics
+2025-04-26 20:27:21,482 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-26 20:27:23,617 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-26 20:27:26,781 - __main__ - INFO - User 5389986340 started the bot
+2025-04-26 20:28:24,543 - __main__ - INFO - User 5389986340 pressed: lang_ar
+2025-04-26 20:28:26,559 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-26 20:28:28,885 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-26 20:28:40,866 - __main__ - INFO - User 5389986340 pressed: back_SEMESTER_year1
+2025-04-26 20:30:41,691 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-26 20:30:42,602 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-26 20:30:46,636 - __main__ - INFO - User 5389986340 started the bot
+2025-04-26 20:30:48,762 - __main__ - INFO - User 5389986340 pressed: lang_ar
+2025-04-26 20:30:51,150 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-26 20:30:52,894 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-26 20:30:54,715 - __main__ - INFO - User 5389986340 pressed: back_SEMESTER_year1
+2025-04-26 20:31:00,874 - __main__ - INFO - User 5389986340 pressed: back_YEAR
+2025-04-26 20:31:02,326 - __main__ - INFO - User 5389986340 pressed: back_LANGUAGE
+2025-04-26 20:31:03,325 - __main__ - INFO - User 5389986340 pressed: lang_en
+2025-04-26 20:31:04,949 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-26 20:31:06,753 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-26 20:36:38,258 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by setWebhook request
+2025-04-26 20:36:38,259 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by setWebhook request
+2025-04-26 20:36:38,279 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:36:42,338 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:42,339 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:42,340 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:36:43,912 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:43,912 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:43,913 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:36:49,241 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:49,242 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:49,243 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:36:52,697 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:52,698 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:52,699 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:36:57,831 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:57,832 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:36:57,836 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:37:05,500 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:37:05,501 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:37:05,505 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:37:16,995 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:37:16,996 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:37:17,001 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:37:34,159 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:37:34,160 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:37:34,161 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:37:59,888 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:37:59,888 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:37:59,890 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:38:38,405 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:38:38,405 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:38:38,406 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:39:08,476 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:39:08,477 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:39:08,482 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:39:38,550 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:39:38,551 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:39:38,553 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:40:08,626 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:40:08,627 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:40:08,628 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:40:38,716 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:40:38,717 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:40:38,724 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 20:41:08,787 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:41:08,788 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 646, in _network_loop_retry
+    if not action_cb():
+           ^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\updater.py", line 597, in polling_action_cb
+    updates = self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 222, in get_updates
+    updates = super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 2861, in get_updates
+    self._post(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-04-26 20:41:08,789 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 536, in process_update
+    self.dispatch_error(None, update)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "C:\university_bot\bot.py", line 315, in error_handler
+    if update.callback_query:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'callback_query'
+2025-04-26 23:03:18,404 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-26 23:03:22,789 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-26 23:03:26,925 - __main__ - INFO - User 5389986340 started the bot
+2025-04-26 23:06:39,871 - __main__ - INFO - User 5389986340 pressed: lang_ar
+2025-04-26 23:06:41,900 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-26 23:06:43,608 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-26 23:06:49,592 - __main__ - INFO - User 5389986340 pressed: sub_Mechanics
+2025-04-26 23:07:35,770 - __main__ - INFO - User 5389986340 pressed: back_SUB_year1_1
+2025-04-26 23:07:37,570 - __main__ - INFO - User 5389986340 pressed: back_SEMESTER_year1
+2025-04-26 23:07:38,788 - __main__ - INFO - User 5389986340 pressed: back_YEAR
+2025-04-26 23:07:39,869 - __main__ - INFO - User 5389986340 pressed: back_LANGUAGE
+2025-04-27 10:08:27,826 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 10:08:28,544 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-27 10:10:38,933 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 10:10:41,454 - __main__ - INFO - User 5389986340 pressed: lang_ar
+2025-04-27 10:10:43,592 - __main__ - INFO - User 5389986340 pressed: back_LANGUAGE
+2025-04-27 10:16:33,726 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 10:17:08,300 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 10:17:09,152 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-27 10:17:24,708 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 10:17:34,234 - __main__ - INFO - User 5389986340 pressed: lang_ar
+2025-04-27 10:17:35,892 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-27 10:17:39,357 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-27 10:17:40,796 - __main__ - INFO - User 5389986340 pressed: back_SEMESTER_year1
+2025-04-27 10:17:42,541 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 10:18:06,910 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 10:18:09,052 - __main__ - INFO - User 5389986340 pressed: lang_ar
+2025-04-27 10:18:10,806 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-27 10:18:12,436 - __main__ - INFO - User 5389986340 pressed: sem1
+2025-04-27 10:18:16,128 - __main__ - INFO - User 5389986340 pressed: sub_Mechanics
+2025-04-27 10:18:58,598 - __main__ - INFO - User 5389986340 pressed: back_SUB_year1_1
+2025-04-27 10:19:01,266 - __main__ - INFO - User 5389986340 pressed: back_SEMESTER_year1
+2025-04-27 10:19:02,515 - __main__ - INFO - User 5389986340 pressed: back_YEAR
+2025-04-27 10:19:03,775 - __main__ - INFO - User 5389986340 pressed: year2
+2025-04-27 10:19:07,114 - __main__ - INFO - User 5389986340 pressed: back_YEAR
+2025-04-27 10:19:08,448 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-27 13:00:22,792 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 13:00:22,798 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021DCF745370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:00:22,799 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021DCFE9F920>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:00:22,799 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021DCFE9F980>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:00:48,327 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 13:00:48,340 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023D95F1B830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:00:48,342 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023D95F1B8C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:00:48,344 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023D95F1BB60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:07:50,004 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 13:07:50,010 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B17DC5D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:07:50,011 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B17B15F70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:07:50,012 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000027B1820BCB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:12:34,082 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 13:12:45,869 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002C73C5E39E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:12:57,913 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002C73D927BC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:12:57,913 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002C73D927BF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/getMe
+2025-04-27 13:14:37,376 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 13:14:41,488 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-27 13:14:41,588 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 13:14:47,318 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 13:14:48,138 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 13:15:09,192 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 13:17:39,648 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 13:17:42,225 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-27 13:17:42,292 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 13:17:47,302 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F3E7037890>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/sendMessage
+2025-04-27 13:17:53,159 - __main__ - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 404, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1058, in _validate_conn
+    conn.connect()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 419, in connect
+    self.sock = ssl_wrap_socket(
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:993: The handshake operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 259, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\request.py", line 81, in request
+    return self.request_encode_body(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\request.py", line 173, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\poolmanager.py", line 376, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 827, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 799, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 715, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 407, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 358, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5.0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\conversationhandler.py", line 626, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\handler.py", line 198, in handle_update
+    return self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\university_bot\bot.py", line 148, in start
+    update.message.reply_text(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\message.py", line 764, in reply_text
+    return self.bot.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 130, in decorator
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 513, in send_message
+    return self._message(  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\extbot.py", line 199, in _message
+    result = super()._message(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 332, in _message
+    result = self._post(endpoint, data, timeout=timeout, api_kwargs=api_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\bot.py", line 295, in _post
+    return self.request.post(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 356, in post
+    result = self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\utils\request.py", line 261, in _request_wrapper
+    raise TimedOut() from error
+telegram.error.TimedOut: Timed out
+2025-04-27 13:17:58,210 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F3E37E7200>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/sendMessage
+2025-04-27 13:18:03,217 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F3E7080440>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot7194132273:AAFFf4Q9J4YJFKPm0poQ1DEjKn4WJYSNgec/sendMessage
+2025-04-27 20:18:23,177 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-27 20:18:25,210 - __main__ - INFO - Bot is running and ready to serve!
+2025-04-27 20:18:25,292 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 20:18:25,860 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 20:18:25,967 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 20:18:33,978 - __main__ - INFO - User 5389986340 started the bot
+2025-04-27 20:18:35,682 - __main__ - INFO - User 5389986340 pressed: lang_ar
+2025-04-27 20:18:37,158 - __main__ - INFO - User 5389986340 pressed: year1
+2025-04-27 20:18:38,188 - __main__ - INFO - User 5389986340 pressed: sem1

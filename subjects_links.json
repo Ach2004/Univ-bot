@@ -1,0 +1,28 @@
+{
+    "sem1": {
+        "algebra1": {
+            "cours": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "td": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "control": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "examen": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link"
+        },
+        "analyse1": {
+            "cours": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "td": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "control": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "examen": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link"
+        },
+        "algebra2": {
+            "cours": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "td": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "control": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "examen": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link"
+        },
+        "analyse2": {
+            "cours": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "td": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "control": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link",
+            "examen": "https://drive.google.com/file/d/FILE_ID/view?usp=drive_link"
+        }
+    }
+}
